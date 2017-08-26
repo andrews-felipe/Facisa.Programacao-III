@@ -41,7 +41,7 @@ public final class Lampada {
 ```
 ### ProblemaDoDiamante
 
-** DiamondProblem** : Relatório sobre o *DiamondProblem* envolvendo henraça múltipla em Java. 
+**DiamondProblem** : Relatório sobre o *DiamondProblem* envolvendo henraça múltipla em Java. 
 
 
 
