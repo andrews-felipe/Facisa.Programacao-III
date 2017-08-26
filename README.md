@@ -4,7 +4,7 @@
   align="right"
 />
 
-# Facisa.Programacao-III
+# SI - Programação III
 
 Atividades e projetos da disciplina de programação III do curso de graduação em **Sistemas de Informação** pelo Centro Universitário - UniFacisa, Campina Grande - PB.
 
