@@ -1,7 +1,6 @@
 <img
   src="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAh1AAAAJDlmN2ViMGFhLThkZDEtNDFiMC1hYzI1LTViOWRkMTYzM2VjZg.png"
   width="90"
-  margin="buttom"
   align="right"
 />
 
@@ -40,6 +39,9 @@ public final class Lampada {
 	}
 ...
 ```
+### ProblemaDoDiamante
+
+** DiamondProblem** : Relatório sobre o *DiamondProblem* envolvendo henraça múltipla em Java. 
 
 
 
